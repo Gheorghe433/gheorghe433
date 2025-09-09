@@ -10,10 +10,10 @@ Rosca Gheorghe
 Ocupatie basketball
 
 ## Limbi:
-Romana
-Rusa
-Engleza
-Franceza
+Romana  
+Rusa  
+Engleza   
+Franceza   
 
 
 
