@@ -1,14 +1,14 @@
 ## Date personale
-Rosca Gheorghe
-Data Nasterii:02.06.2008
+Rosca Gheorgheb   
+Data Nasterii:02.06.2008    
 
 ## Contactte
-1.068476493
-2.ghe ***@gmail.com
+1.068476493  
+2.ghe ***@gmail.com  
 
 ## Hobby
- basketball
-fotbal
+ basketball  
+fotbal  
 ## Limbi:
 Romana  
 Rusa  
