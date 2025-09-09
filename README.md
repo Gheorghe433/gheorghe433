@@ -1,7 +1,20 @@
-## Hi there 
-***Studiu***
-**Scoala:**Dimitri Cantemir
-**Satul:**Ciocalteni
-**Nume:**GHeorghe
-**Famile:**Rosca
-**telefon:**068675689
+## Date personale
+Rosca Gheorghe
+
+
+## Contactte
+1.068476493
+2.duhbeuefeiu47647@gmail.com
+
+## Hobby
+Ocupatie basketball
+
+## Limbi:
+Romana
+Rusa
+Engleza
+Franceza
+
+
+
+
